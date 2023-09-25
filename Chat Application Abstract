@@ -6,8 +6,9 @@ Requirements:
 ->Java Basic(OOPS)
 ->Java IO package(BuferedReader and PrintWriter class)
 ->Networking
-->Swing for GUI(Graphical User Interface)
 ->Basic of Multithreading.
+
+Note:This is only console based outputs.
 
 Language: 
 Java Environment
