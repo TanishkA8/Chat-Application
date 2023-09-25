@@ -1,0 +1,18 @@
+This project is chat based application.
+THis project is based on client-server-architecture logic.
+ServerSocket class is used at Serverside and Socket class is used at Client side.
+
+Requirements:
+->Java Basic(OOPS)
+->Java IO package(BuferedReader and PrintWriter class)
+->Networking
+->Swing for GUI(Graphical User Interface)
+->Basic of Multithreading.
+
+Language: 
+Java Environment
+
+Biblography:
+Google.com
+
+Youtube - https://youtu.be/6oBePDVZHYc?feature=shared
